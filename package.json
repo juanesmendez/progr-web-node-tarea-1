@@ -1,0 +1,19 @@
+{
+  "name": "clase10-ejercicio-tarea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanesmendez/progr-web-node-tarea-1.git"
+  },
+  "author": "Juan Esteban Méndez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanesmendez/progr-web-node-tarea-1/issues"
+  },
+  "homepage": "https://github.com/juanesmendez/progr-web-node-tarea-1#readme"
+}
